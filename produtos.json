@@ -1,0 +1,44 @@
+
+[
+    {
+      "nome": "JBL, Headset Gamer, Quantum 100 - Branco",
+      "link": "https://www.amazon.com.br/Headset-Gamer-JBL-Quantum-Branco/dp/B083X26ZL8/?_encoding=UTF8&pd_rd_w=MDM31&content-id=amzn1.sym.142cf30d-cd8e-4f67-a147-740799e27bf0&pf_rd_p=142cf30d-cd8e-4f67-a147-740799e27bf0&pf_rd_r=NB4TR3KKF7EB05V9H0RZ&pd_rd_wg=se4Mf&pd_rd_r=835630b4-f987-42d9-a0e1-892a137b299f&ref_=pd_gw_ci_mcx_mr_hp_atf_m",
+      "minimo": 140
+    },
+    {
+      "nome": "Óculos VR Box 2.0 3d Para Disposivos Android e IOS",
+      "link": "https://www.amazon.com.br/%C3%93culos-Box-Para-Disposivos-Android/dp/B076FMZ14M/?_encoding=UTF8&pd_rd_w=BV8Ls&content-id=amzn1.sym.142cf30d-cd8e-4f67-a147-740799e27bf0&pf_rd_p=142cf30d-cd8e-4f67-a147-740799e27bf0&pf_rd_r=EVREQE80Y1J9Z6C9Z0RN&pd_rd_wg=FyXQ3&pd_rd_r=b86500cd-3b7d-423c-a651-f207b0939028&ref_=pd_gw_ci_mcx_mr_hp_atf_m",
+      "minimo": 50
+    },
+    {
+      "nome": "Cadeira Gamer Escritório Presidente Zermatt Preta Conforsit",
+      "link": "https://www.amazon.com.br/Cadeira-Escrit%C3%B3rio-Presidente-Zermatt-Conforsit/dp/B08MBHQVDW/ref=sr_1_51?keywords=cadeira+gamer&pf_rd_i=16364766011&pf_rd_m=A3RN7G7QC5MWSZ&pf_rd_p=025d95b4-d4e8-40c2-8cff-a9c12bf39cc5&pf_rd_r=EVREQE80Y1J9Z6C9Z0RN&pf_rd_s=merchandised-search-4&pf_rd_t=101&qid=1676765954&sr=8-51&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147",
+      "minimo": 999
+    },
+    {
+      "nome": "Fortrek H2 - Headset Gamer Pro Microfones e Fones de Ouvido, Preto (Leds Azul)",
+      "link": "https://www.amazon.com.br/Headset-H2-Fortrek-Microfones-Ouvido/dp/B07FJPLFKM/ref=d_pd_sbs_sccl_2_4/144-0052202-1514746?pd_rd_w=xO5GU&content-id=amzn1.sym.f14d3066-f640-490b-be63-642232e30730&pf_rd_p=f14d3066-f640-490b-be63-642232e30730&pf_rd_r=D8R7SVS5QER4PHN02NJ3&pd_rd_wg=sMgDx&pd_rd_r=7ab6103d-2d59-441b-b26d-9df75fd4697b&pd_rd_i=B07FJPLFKM&psc=1",
+      "minimo": 87.79
+    },
+    {
+      "nome": "Apple notebook MacBook Air (de 13 polegadas, Processador M1",
+      "link": "https://www.amazon.com.br/MacBook-Air-Cinza-espacial-256GB-Apple/dp/B0942NDQKL/ref=sr_1_1_sspa?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=22GO04U1MD5LX&keywords=macbook+air&qid=1677687651&sprefix=macbook+ai%2Caps%2C231&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExOEFXS0hJT1JURzhOJmVuY3J5cHRlZElkPUEwNTgxOTc1R0xIMFEwNjZTV1M0JmVuY3J5cHRlZEFkSWQ9QTAyMzgwNzEyUVI5SjJCQ1JFVk9EJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==",
+      "minimo": 7999.0
+    },
+    {
+      "nome": "Mac mini Processador M2",
+      "link": "https://www.amazon.com.br/Computador-Mac-Apple-n%C3%BAcleos-n%C3%BAcleos/dp/B0BSHYV7X5/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1OHYKVK1QEXWX&keywords=mac+mini&qid=1677692010&sprefix=mac+mini%2Caps%2C195&sr=8-2&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147",
+      "minimo": 7199.0
+    },
+    {
+      "nome": "Suporte Fone De Ouvido",
+      "link": "https://www.amazon.com.br/Suporte-Fone-Ouvido-Heardset-Gammer/dp/B093QQS1WH/?_encoding=UTF8&pd_rd_w=yGeHy&content-id=amzn1.sym.142cf30d-cd8e-4f67-a147-740799e27bf0&pf_rd_p=142cf30d-cd8e-4f67-a147-740799e27bf0&pf_rd_r=3FPJBH94F3EY4B9BXJZK&pd_rd_wg=f4STn&pd_rd_r=c18e0093-b0b3-4623-a7f7-a8ff1362358f&ref_=pd_gw_ci_mcx_mr_hp_atf_m",
+      "minimo": 33.99
+    },
+    {
+      "nome": "Cadeira Gamer Mad Racer V8 TURBO - Vermelha",
+      "link": "https://www.amazon.com.br/CADEIRA-GAMER-RACER-TURBO-VERMELHA/dp/B08CHLPMC6/ref=sr_1_30?keywords=cadeira+gamer&qid=1677784624&sr=8-30&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147",
+      "minimo": 1411.76
+    }
+]
+  
